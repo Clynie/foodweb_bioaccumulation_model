@@ -10,7 +10,9 @@ Email: ems@seas.harvard.edu Web: http://bgc.seas.harvard.edu
 
 # Citation for code
 
-Schartup et al., etc.
+Climate change and overfishing increase neurotoxicant in marine predators, Nature, 2019  
+Amina T. Schartup, Colin P. Thackray, Asif Qureshi, Clifton Dassuncao, Kyle Gillespie, Alex Hanke & Elsie M. Sunderland   
+DOI: 10.1038/s41586-019-1468-9
 
 Co-authorship is appropriate if your paper benefits significantly from use of this model/code. Citation is appropriate if use of this model/code has only a marginal impact on your work or if the work is a second generation application of the model/code. 
 
