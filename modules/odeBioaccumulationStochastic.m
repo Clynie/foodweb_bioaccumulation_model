@@ -398,6 +398,7 @@ switch Species
             MeHgPreyArray = squeeze(szY(:,ti,2));
             aLPrey = aL(4);
             bLPrey = bL(4);
+	    Size_ratio=10;
             for i = length(massPreyArray):-1:2
 
                 Length_Prey = ((massPreyArray(i)*1e3)/aLPrey)^(1/bLPrey); 
