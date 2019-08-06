@@ -2,7 +2,7 @@
 
 Schartup et al. (2019) Foodweb bioaccumulation model
 
-Last updated: 28 May 2019
+Last updated: Aug 6 2019
 
 Questions or comments? Contact: Elsie Sunderland Harvard University
 
